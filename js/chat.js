@@ -3,7 +3,7 @@ $(document).ready(function() {
     $("#typing").hide();
     var n = "You: ";
 	var default_user = "Guest";
-	var gen_about = "Battle Points";
+	var gen_about = "UC";
     var output_window = $('.chatList');
     var t = $('#typing');      
     var i = -1;
@@ -26,23 +26,23 @@ $(document).ready(function() {
 				 'just testing',
 				 'hello guys lets generateeee',
 				 'did you start generator?',
-				 'hahaha I love this generator in 2 sec I generated unlimited battle points bro',
+				 'hahaha I love this generator in 2 sec I generated unlimited UC bro',
 				 'Whats up mates?',
-				 'I just tested and generated 20 000 battle points thanks',
-				 'I generated today some battle points, can I generate it one more time today??',
+				 'I just tested and generated 20 000 UC thanks',
+				 'I generated today some UC, can I generate it one more time today??',
 				 'who made this freaking website????',
 				 'i tought this is scam, but I generated it and suprise',
 				 'Thank you lol I am so happy :D',
 				 'I am 11 years old and I love this website, I will show it to mum hehe :DD',
-				 'Does battle points help you in this game a lot?',
-				 'I generated today 2000 battle points and bough a lot of good items!',
+				 'Does UC help you in this game a lot?',
+				 'I generated today 2000 UC and bough a lot of good items!',
 				 'How much do you play it daily?',
 				 'Who is playing this game?',
 				 'can I shutdown game now??',
-				 'Hello anybody want to send him battle points? I generated it a lot of :D',
+				 'Hello anybody want to send him UC? I generated it a lot of :D',
 				 'where I can contact you to donate? I love you !!',
 				 'this is working i cant belive juhuuu',
-				 'happy new year lol i am just kidding happy life with a lot of battle points generated',
+				 'happy new year lol i am just kidding happy life with a lot of UC generated',
 				 'Awesome, it is rare to find working generator like this one',
 				 'I can imagine this must be annoying for the one who play with skill',
 				 'bye guys, already finish my survey easy, and resources generated successfully',
