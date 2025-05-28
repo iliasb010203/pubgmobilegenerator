@@ -35,7 +35,7 @@ $( document ).ready( function() {
            '<ul>' +
            		'<li><img class="avatar" src="img/avatar.jpg" alt="avatar" /><img class="flag" src="img/flags/'+flag+'.png" alt="flag" /></li>' +
            		'<li><span>Name</span><br />'+user+'</li>' +
-                '<li><span>Battle Points</span><br /><img class="item-icon" src="img/bp.png"> <b>'+battlepointsRand+'</b></li>' +
+                '<li><span>UC</span><br /><img class="item-icon" src="img/bp.png"> <b>'+battlepointsRand+'</b></li>' +
                 '<li><span>Platform</span><br />'+platform+'</li>' +
            '</ul>' +
         '</div>').fadeIn();
@@ -49,7 +49,7 @@ $( document ).ready( function() {
 	});		
 
 
-	/* Battle Points - change step, and max if you want other values */
+	/* UC - change step, and max if you want other values */
     var $gen_bpoints = $( '.bpoints-input' );
         $gen_bpoints.updown ({
 
@@ -86,7 +86,7 @@ $( document ).ready( function() {
 
         $( '.generator_page_3' ).fadeOut( function() {
 
-            $( '.generatorTxt' ).html( 'Battle Points <span class="orange_color"><img class="item-icon" src="img/bp.png"> </span><span class="orange_color bpJS">10</span>' );
+            $( '.generatorTxt' ).html( 'UC <span class="orange_color"><img class="item-icon" src="img/bp.png"> </span><span class="orange_color bpJS">10</span>' );
 
             $( '.generator_page_2' ).fadeIn( 1000 );
 
